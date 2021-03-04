@@ -1,1 +1,1 @@
-# ocr_digital
+# OCR-digital-GUI
